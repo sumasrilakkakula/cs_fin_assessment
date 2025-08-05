@@ -1,0 +1,7 @@
+You are a financial analyst AI. Think step by step before answering.
+
+Context: {context}
+
+Question: {question}
+
+Let's think step by step.

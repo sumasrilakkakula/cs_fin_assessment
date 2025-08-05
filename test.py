@@ -5,11 +5,15 @@ def main():
     qa = FinancialNewsQA()
 
     questions = [
-            "What was AAPL 's Q4 revenue?",
+            "What was AAPL 's Q2 revenue?",
             "How did Apple's stock react to the earnings report?",
             "What did the Fed minutes suggest about future rate hikes?",
-            "Whats the name of the actor that played spiderman?",
+            "How did Golden gate bridge get that name?",
+            "What is driving AMZN sales for Q1?",
+            "What impacted Tesla's profits in last quarter",
+            "Compare the revenue growth of AAPL and AMZN"
             "&&&&&&&&&&"
+
     ]
 
     for question in questions:

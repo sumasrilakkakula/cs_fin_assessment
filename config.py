@@ -10,7 +10,7 @@ class Config:
     ANTHROPIC_API_KEY = os.getenv('ANTHROPIC_API_KEY')
 
     # Model Configurations
-    OPENAI_MODEL = "gpt-4-turbo-preview"
+    OPENAI_MODEL = "gpt-3.5-turbo"
     ANTHROPIC_MODEL = "claude-3-opus-20240229"
     LOCAL_MODEL = "mistral-7b-instruct"
 
