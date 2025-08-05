@@ -1,0 +1,5 @@
+Context: {context}
+
+Question: {question}
+
+Based on the provided context, please answer the question. If the context doesn't contain enough information to answer the question, simply say "I don't have enough information to answer that question."

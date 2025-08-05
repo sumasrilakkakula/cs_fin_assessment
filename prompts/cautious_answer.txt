@@ -1,0 +1,5 @@
+Context: {context}
+
+Question: {question}
+
+Please answer the question carefully based only on the provided context. If you're not 100% certain, indicate your uncertainty. Avoid speculation. For financial questions, be particularly careful with numbers and predictions. If the answer isn't clearly in the context, say "I cannot determine that from the available information."

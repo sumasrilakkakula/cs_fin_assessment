@@ -1,0 +1,5 @@
+Context: {context}
+
+Question: {question}
+
+Please answer the question carefully based only on the provided context. If the question is not related to Finance, or stock market, respectfully route them to refer wikipedia and assure them that you are there to help if they have any Finance related questions.

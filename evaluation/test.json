@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What was Apple's Q4 revenue?",
+        "expected_answer": "$89.5 billion"
+    },
+    {
+        "question": "How did Apple's stock react to the earnings report?",
+        "expected_answer": "rose 3% in after-hours trading"
+    },
+    {
+        "question": "What did the Fed minutes suggest about future rate hikes?",
+        "expected_answer": "may pause its aggressive rate hike campaign"
+    },
+    {
+        "question": "What percentage of Apple's revenue came from iPhone sales?",
+        "expected_answer": "52%"
+    },
+  {
+    "question": "Why is Golden gate given that name?",
+    "expected_answer": "I can't answer that. Please refer to Wikipedia"
+  }
+]
